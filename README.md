@@ -3,7 +3,7 @@
   + Trương Khôi Nguyên: https://github.com/TruongKhoiNguyen
   + Hoàng Sỹ Quý: https://github.com/quysterben
   + Nguyễn Văn Thịnh: https://github.com/ThinhNguyen1102
-- Video demo game play:
+- Video demo game play: https://www.youtube.com/watch?v=6XkB1Tdlfk4&t=231s
 ## Mô tả về các đối tượng trong trò chơi
 Nếu bạn đã từng chơi Bomberman, bạn sẽ cảm thấy quen thuộc với những đối tượng này. Chúng được được chia làm hai loại chính là nhóm đối tượng động (*Bomber*, *Enemy*, *Bomb*) và nhóm đối tượng tĩnh (*Grass*, *Wall*, *Brick*, *Door*, *Item*).
 
